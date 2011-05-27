@@ -1,0 +1,19 @@
+-Two player Mechanics
+	-Single Player Mode 
+		-Solids and Stripes need to be played
+	-Two player mode 
+		- Need to determine solids or stripes for player on first 
+		  in pocket
+	
+-Score bored
+	-Score bored will be a solid and stripes 
+		-One player Will huts ha e one ball graphic on the left
+		-Two Player will have a solid ball graphic on right 
+		 and a stripe graphic on the left
+
+-Winner Graphics
+	- Need a player 2 Wins Graphic and a player one wins graphic
+	
+-Face book integration
+	- User will be able to post that they just won a game of simple pool
+	
